@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/trash.svg</file>
+        <file>images/popout.svg</file>
+    </qresource>
+</RCC>
