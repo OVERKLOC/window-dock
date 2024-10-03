@@ -1,4 +1,4 @@
-# Window Dock Plugin
+# Window Dock Plugin For OBS Studio
 
 ## Introduction
 
